@@ -1,4 +1,9 @@
-## Hi there 👋
+## 👋 Hi there! I’m a first-year Programming student at Artevelde University of Applied Sciences.
+I have a strong interest in front-end development and enjoy building user-friendly, modern websites.
+
+💻 Technologies: HTML, CSS, JavaScript (always eager to learn more)
+
+Currently looking for a 2025 internship to gain hands-on experience and grow my skills.
 
 <!--
 **daanhoubrechts/daanhoubrechts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
