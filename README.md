@@ -1,7 +1,7 @@
 ## 👋 Hi there! I’m a first-year Programming student at Artevelde University of Applied Sciences.
 I have a strong interest in front-end development and enjoy building user-friendly, modern websites.
 
-💻 Technologies: HTML, CSS, JavaScript (always eager to learn more)
+💻 Technologies: HTML, CSS, JavaScript, PHP (always eager to learn more)
 
 Currently looking for a 2025 internship to gain hands-on experience and grow my skills.
 
