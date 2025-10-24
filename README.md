@@ -1,5 +1,5 @@
 ## 👋 Hi there! I’m a first-year Programming student at Arteveldehogeschool.
-I have a strong interest in front-end development and enjoy building user-friendly, modern websites.
+I have a strong interest in fullstack development and enjoy building user-friendly, modern websites.
 
 💻 Technologies: HTML, CSS, JavaScript, PHP (always eager to learn more)
 
