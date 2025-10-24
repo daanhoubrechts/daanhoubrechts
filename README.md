@@ -1,9 +1,5 @@
-## 👋 Hi there! I’m a first-year Programming student at Arteveldehogeschool.
-I have a strong interest in fullstack development and enjoy building user-friendly, modern websites.
-
-💻 Technologies: HTML, CSS, JavaScript, PHP (always eager to learn more)
-
-Currently looking for a 2025 internship to gain hands-on experience and grow my skills.
+## 👋 Hi there! I’m a Programming student at Arteveldehogeschool.
+I have a strong interest in fullstack development and enjoy building user-friendly, modern applications & websites.
 
 <!--
 **daanhoubrechts/daanhoubrechts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
