@@ -1,4 +1,4 @@
-## 👋 Hi there! I’m a Programming student at Arteveldehogeschool.
+## 👋 Hi there! I’m **Daan Houbrechts**.
 I have a strong interest in fullstack development and enjoy building user-friendly, modern applications & websites.
 
 <!--
